@@ -1,7 +1,5 @@
 # MedStore - Online Medicine Store
 
-![MedStore Banner](https://via.placeholder.com/800x200?text=MedStore+Online+Medicine+Store)
-
 ## Overview
 
 MedStore is a web-based application for an online medicine store that allows users to browse, search, and purchase medication and healthcare products. The platform provides an intuitive interface for customers to find products, read descriptions, add items to cart, and complete checkout processes.
